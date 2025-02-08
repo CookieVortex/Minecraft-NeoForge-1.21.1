@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "examplemod:block/water_generator_block"
+  }
+}
